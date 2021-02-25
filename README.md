@@ -7,4 +7,5 @@ Finished projects from the hyperskill.org
 4. [Project: Multilingual Online Translator](https://hyperskill.org/projects/99)
 5. [Project: Hangman](https://hyperskill.org/projects/69)
 6. [Project: Text-Based Browser](https://hyperskill.org/projects/79) [Really bad project...]
+7. [Project: Web Scraper](https://hyperskill.org/projects/145)
 
